@@ -213,7 +213,7 @@ thead.stickyheader th, th.stickyheader {
 
 *This section is non-normative.*
 
-[Graphics Processing Units](https://en.wikipedia.org/wiki/Graphics_processing_unit), or GPUs for short,
+[GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit), or GPUs for short,
 have been essential in enabling rich rendering and computational applications in personal computing.
 WebGPU is an API that exposes the capabilities of GPU hardware for the Web.
 The API is designed from the ground up to efficiently map to the
